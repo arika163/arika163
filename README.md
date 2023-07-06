@@ -3,7 +3,6 @@
   Hi, welcome!
 </h2>
 <h3> I'm <b>arika</b>, a Front-end developer from <b>China</b>.</h3> 
-<br><br>
 
 In most cases, working with
 

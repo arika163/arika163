@@ -2,9 +2,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="64" /> 
   Hi, welcome!
 </h2>
-<h3> I'm <b>arika163</b>, a Front-end developer from <b>China</b>.</h3> 
-<img align="left" src="https://visitor-badge.glitch.me/badge?page_id=arika163.arika163"/>
-<img align="left" src="https://hits.dwyl.com/arika163/arika163.svg" />
+<h3> I'm <b>arika</b>, a Front-end developer from <b>China</b>.</h3> 
 <br><br>
 
 In most cases, working with
